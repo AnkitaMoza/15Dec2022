@@ -5,9 +5,9 @@ public class Program {
 	
 	String name = "Ankita Mozar";
 	
-	boolean a =name.isBlank();
+	boolean b =name.isBlank();
 	
-	System.out.println(a);
+	System.out.println(b);
 	 
 	 
 }
